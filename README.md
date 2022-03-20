@@ -8,7 +8,7 @@ I'm a first-year MSPPM - Data Analytics student from Singapore, with an Earth Sc
 Outside of my academic interests, mapping is still a large of my hobbies/interests. My favourite show is The Amazing Race, and I love seeing the different countries that the teams visit, and the transportation routes that they take on the race. I'm also a huge basketball fan, so March Madness is another way that I engage with maps. I love seeing how the "bracket" turns out through the geographical relationship between school location and arena location nationally. 
 
 ## What I hope to learn
-My GIS skills are pretty focused on physical geography using a variety of data sources. One of the things I want to learn better through the course is how to integrate other data skills (Python, SQL, or R) to better tell stories about data through maps. Integrating a variety of different sources, and resources is one of the things that I want to continue building upon. This is always a tricky task, and the content of this class will definitely put this to practice. 
+My GIS skills are pretty focused on physical geography using a variety of data sources. One of the things I want to learn better through the course is how to integrate other data skills (Python, SQL, or R) to better tell stories about data through maps. Integrating a variety of different/disparate sources, and resources is one of the things that I want to continue to build upon. This is always a tricky task, and the content of this class will definitely put this to practice. 
 
 ## Portfolio
 
