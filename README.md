@@ -13,6 +13,8 @@ My GIS skills are pretty focused on physical geography using a variety of data s
 ## Portfolio
 
 ### Assignment #1
+#### Creating a custom map for a non-profit
+Link to JSON code - https://github.com/pranav-bhardwaj0/Bhardwaj-AdvancedGIS-Portfolio/blob/main/edf-basemap.json
 
 ### Week 2
 
