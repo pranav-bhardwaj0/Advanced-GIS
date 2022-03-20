@@ -1,6 +1,6 @@
 # Advanced-GIS
 Repository/Portfolio for 90753: Advanced GIS at Carnegie Mellon University
-https://pranav-bhardwaj0.github.io/Advanced-GIS/
+https://pranav-bhardwaj0.github.io/Bhardwaj-AdvancedGIS-Portfolio/
 
 ## About me
 I'm a first-year MSPPM - Data Analytics student from Singapore, with an Earth Science and Environmental Studies background from my undergraduate degree. As such, GIS was a big part of my coursework and research. I used open-source data to analyze the multivariate factors that contribute to landslide risk and hazard in distinct geographies around the world, with the hope of understanding how governments can better utilize their resources for disaster management. As someone who has been raised all over the world, I love using maps and statistics to understand earth systems globally, and how climate change will affect our society in the near future.
