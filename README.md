@@ -12,7 +12,7 @@ My GIS skills are pretty focused on physical geography using a variety of data s
 
 ## Portfolio
 
-### Week 1
+### Assignment #1
 
 ### Week 2
 
