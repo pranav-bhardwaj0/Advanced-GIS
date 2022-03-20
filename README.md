@@ -16,7 +16,11 @@ My GIS skills are pretty focused on physical geography using a variety of data s
 ### Assignment #1: Creating a custom map for the Environmental Defense Fund (EDF)
 Link to JSON code - https://github.com/pranav-bhardwaj0/Bhardwaj-AdvancedGIS-Portfolio/blob/main/edf-basemap.json
 
+The non-profit organization I selected for this assignment is the Environmental Defense Fund (EDF). This is a United States-based non-profit that advocates for climate change solutions, including market-based solutions and ecosystem restoration. As such, I expect a lot of “green” to be a part of the map design. 
+
 Document with Design choices (summarized below) - https://github.com/pranav-bhardwaj0/Bhardwaj-AdvancedGIS-Portfolio/blob/main/EDF%20Map%20Design.docx
+
+I used the following two pictures to get a wide variety of colours, since the initial logo only gave me a limited number of options. Since I wanted the “purpose” of this map to show all the EDF offices nationally, I thought it would be best to have a variety of colour options to style this map appropriately. Since the blues in these two palettes are quite deep, and intense, I had adjusted one of the blues for a lighter blue that could be used as water on the basemap. This adjustment is shown below and was done using the Adobe Colour tool. 
 ![Colour Palette #1](https://user-images.githubusercontent.com/101579103/159188489-6275544b-ef40-4bec-9b69-b52fb1dcbc76.PNG)
 ![Colour Palette #2](https://user-images.githubusercontent.com/101579103/159188492-8083a5e0-3910-4293-9174-b85bceeecaab.PNG)
 ![Adjustment 1](https://user-images.githubusercontent.com/101579103/159188495-3b84cb43-6a86-415d-bd17-6d7a3cf127bd.PNG)
