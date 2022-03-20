@@ -1,5 +1,6 @@
 # Advanced-GIS
 Repository/Portfolio for 90753: Advanced GIS at Carnegie Mellon University
+
 https://pranav-bhardwaj0.github.io/Bhardwaj-AdvancedGIS-Portfolio/
 
 ## About me
@@ -15,7 +16,9 @@ My GIS skills are pretty focused on physical geography using a variety of data s
 ### Assignment #1
 #### Creating a custom map for a non-profit
 Link to JSON code - https://github.com/pranav-bhardwaj0/Bhardwaj-AdvancedGIS-Portfolio/blob/main/edf-basemap.json
+
 Document with Design choices - https://github.com/pranav-bhardwaj0/Bhardwaj-AdvancedGIS-Portfolio/blob/main/EDF%20Map%20Design.docx
+
 Screenshot of National Map
 ![National](https://user-images.githubusercontent.com/101579103/159188210-55357091-7ee6-4c3e-9f4c-47625963e641.PNG)
 
