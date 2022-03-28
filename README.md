@@ -34,4 +34,4 @@ Example of the map at a local scale (New York City, New York)
 ![NYC](https://user-images.githubusercontent.com/101579103/159188447-c5191c31-f04a-4287-ac1d-9fd6debb3168.PNG)
 
 ## Assignment 2
-<iframe src="https://insights.arcgis.com/#/embed/59fe3e2c1471401a812316f612bbb27d" width="100%" height="1360" frameborder="0"></iframe>
+<iframe src="https://insights.arcgis.com/#/embed/59fe3e2c1471401a812316f612bbb27d" width="100%" height="100%" frameborder="0"></iframe>
