@@ -16,6 +16,7 @@ After reflecting on the class, learning about geospatial data science techniques
 
 One of the best parts of this class was to outline the new ESRI tools, their benefits and their limitations. I think understanding these things is an excellent practice in project management - something that I am likely to going to pursue as a full-time career. For example: 
 - The Spatial Analyst Toolbox hsa a lot of classification and regression algorithms, which are very easy to use. However, 
+- GeoEnrichment
 - ArcGIS Insights was a great tool in data visualizations, and data consolodation. Although limited in some of their data visualization capabilities, it is a good introduction to dashboarding. 
 
 Another thing that I wanted to get out of this class was to setup my Github page better. I have a lot of analytical projects from the past semesters that would be great to display, as well as show employers when I start applying to full time jobs. Below is a sample of how I would setup my page (similar to a resume or Linkedin page), but with more technical focus. 
