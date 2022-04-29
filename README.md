@@ -14,6 +14,17 @@ My GIS skills are pretty focused on physical geography using a variety of data s
 ## What I have learned
 After reflecting on the class, learning about geospatial data science techniques have been very insightful. For someone who has a baseline knowledge of some machine learning algorithms, applying them to geospatial analysis and creating maps has been very useful to me. This class was also a great refresher on data visualizations which are always important in research or the working world. This is best reflected in my project, where I can do a variety of spatial analysis (at different scales, globally, nationally etc.), and I can apply some very complex algorithms to geospatial data. 
 
-Another thing that I wanted to get out of this class was to setup my Github page better. I have a lot of analytical projects from the past semesters that would be great to display, as well as show employers when I start applying to full time jobs. 
+One of the best parts of this class was to outline the new ESRI tools, their benefits and their limitations. I think understanding these things is an excellent practice in project management - something that I am likely to going to pursue as a full-time career. For example: 
+- The Spatial Analyst Toolbox hsa a lot of classification and regression algorithms, which are very easy to use. However, 
+- ArcGIS Insights was a great tool in data visualizations, and data consolodation. Although limited in some of their data visualization capabilities, it is a good introduction to dashboarding. 
 
-## Portfolio
+Another thing that I wanted to get out of this class was to setup my Github page better. I have a lot of analytical projects from the past semesters that would be great to display, as well as show employers when I start applying to full time jobs. Below is a sample of how I would setup my page (similar to a resume or Linkedin page), but with more technical focus. 
+
+## Sample Page Front
+### Technical Skills
+SQL: 
+R: 
+Python: 
+GIS: 
+
+### Projects and Applied Experiences
